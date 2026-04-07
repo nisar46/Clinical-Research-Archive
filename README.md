@@ -1,8 +1,13 @@
 # 🏥 From Operations to Architecture: A 6-Year Code Journey
+![Language](https://img.shields.io/badge/Python-3.10%2B-blue.svg?style=for-the-badge&logo=python)
+![Architecture](https://img.shields.io/badge/Focus-Health--Tech_Architecture-green.svg?style=for-the-badge)
+![Experience](https://img.shields.io/badge/Journey-5_Years_Data_Analysis-orange.svg?style=for-the-badge)
+![Status](https://img.shields.io/badge/ABDM-Rule_8.3_Compliant-red.svg?style=for-the-badge)
 
-![Python](https://shields.io)
-![Architecture](https://shields.io)
-![Focus](https://shields.io)
+# 🏥 Healthcare Data Analysis Journey
+> **Chronicle of a 5-Year High-Impact Data Evolution (2020–2025)**
+---
+
 
 > **"You cannot build digital health systems if you haven't smelled the spirit in the hospital ward."**
 

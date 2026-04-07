@@ -1,15 +1,15 @@
-# 🏥 From Operations to Architecture: A 5-Year Code Journey
+# 🏥 From Operations to Architecture: A 6-Year Code Journey
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?style=for-the-badge&logo=python)
-![Domain](https://img.shields.io/badge/Healthcare-Operations-red.svg?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Data_Science_&_ABDM-green.svg?style=for-the-badge)
+![Python](https://shields.io)
+![Architecture](https://shields.io)
+![Focus](https://shields.io)
 
 > **"You cannot build digital health systems if you haven't smelled the spirit in the hospital ward."**
 
 ## 📖 About This Repository
-This repository is not just code; it is a **chronicle of evolution**. It documents my 5-year transition from a **Hospital Operations Manager** (handling manual files and patient complaints) to a **Health-Tech Architect** (building automated compliance systems).
+This repository is a **chronicle of professional evolution**. It documents my 6-year transition from **Hospital Operations** (manual triage and billing) to **Health-Tech Architecture** (engineered clinical intelligence). 
 
-Each folder represents a specific year of my career and the specific **technical skill** I learned to solve a **real-world problem** I faced in **rural Bangalore healthcare**.
+While Years 1–5 focused on **Operational Logic** and strategic prototyping, **Year 6 (2026)** represents my **"Engineering Pivot."** Here, I refactor a decade of domain expertise into production-grade Python kernels, statistical audits, and GenAI-powered clinical pipelines.
 
 ---
 
@@ -49,6 +49,14 @@ Each folder represents a specific year of my career and the specific **technical
 *   **The Solution:** Automated **Governance Audits**.
 *   **Key Concept:** `Thresholds` & `Multi-Conditions` (The "Inspector" Logic).
 *   **Analyzed Script:** [`year_5_compliance_check.py`](./Year_Five/year_5_compliance_check.py)
+
+### [Year 06: The Pivot (Core Engineering & Clinical ML)](./Year_Six_2026_Pivot)
+*   **Role:** Senior Solution Architect (Transitioning)
+*   **The Problem:** Rule-based scripts cannot scale to millions of ABDM records or detect complex physiological anomalies.
+*   **The Solution:** **High-Performance Data Integrity & Clinical AI.**
+*   **Key Concept:** `Vectorized NumPy`, `KNN Imputation`, & `Statistical Anomaly Detection (Z-Score/IQR)`.
+*   **The Strike:** Moving from rapid prototyping to **Custom-Engineered Production Kernels** for healthcare scale.
+
 
 ---
 

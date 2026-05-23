@@ -1,20 +1,18 @@
-# 🏛️ Clinical Research Archive: Data Systems & Audits (2020–2026)
+# 🏛️ Clinical Data Analytics Portfolio (2020–2025)
 ![Language](https://img.shields.io/badge/Python-3.10%2B-blue.svg?style=for-the-badge&logo=python)
-![Architecture](https://img.shields.io/badge/Focus-Health--Tech_Architecture-green.svg?style=for-the-badge)
+![Analytics](https://img.shields.io/badge/Focus-Clinical_Data_Analytics-green.svg?style=for-the-badge)
 ![Status](https://img.shields.io/badge/ABDM-Rule_8.3_Compliant-red.svg?style=for-the-badge)
-
 
 > **"Digital health systems succeed only when they are built upon the ground-truth of the hospital ward."**
 
 ## 📖 Overview
-This archive is a technical chronicle of **Clinical Logic Engineering**. It documents the systematic evolution of hospital data systems—from manual operational triage at **R K Nursing Home** to the **Production-Grade Clinical Intelligence** of 2026.
+This archive is a technical chronicle of my work as a **Clinical Data Analyst**. It documents the systematic evolution of hospital data systems—from manual operational triage at **R K Nursing Home** to building production-grade data pipelines using Python and SQL.
 
 ---
 
-### 📂 Clinical Implementation Modules (2020 - 2025)
+### 📂 Clinical Analytics Modules (2020 - 2025)
 
-
-| Phase | Problem Solved | Technical Solution | Logic Kernel |
+| Phase | Problem Solved | Technical Solution | Python Script |
 | :--- | :--- | :--- | :--- |
 | **[Year 01](./Year_One)** | **Data Hygiene:** 1,000s of fragmented rural records. | Clinical Record Normalization Scripts. | `year_1_cleaning.py` |
 | **[Year 02](./Year_Two)** | **Revenue Integrity:** Manual billing leakages. | Automated Financial & Discrepancy Audits. | `year_2_billing_audit.py` |
@@ -24,14 +22,14 @@ This archive is a technical chronicle of **Clinical Logic Engineering**. It docu
 
 ---
 
-### 🚀 Phase 06: Engineering Hardening (2026)
-**Current Focus:** Transitioning to **Clinical Solutions Architecture**.
-*   **The Pivot:** Moving from rule-based scripts to **High-Performance Production Kernels**.
-*   **Technical Stack:** `Vectorized NumPy`, `Statistical Anomaly Detection`, and `ABDM-FHIR Interoperability`.
-*   **The Goal:** Refactoring a decade of domain expertise into scalable, national-level digital health infrastructure.
+### 🚀 Phase 06: Advanced Data Engineering
+**Current Focus:** Transitioning from data reporting to high-performance **ETL Pipelines**.
+*   **The Pivot:** Moving from rule-based scripts to **High-Performance Python Pipelines**.
+*   **Technical Stack:** `Polars`, `Vectorized Python`, and `ABDM-FHIR Database Schemas`.
+*   **The Goal:** Scaling a decade of domain expertise into automated, national-level data ingestion frameworks (See the *OmniIngest* project).
 
 ---
 
-## 👨‍💻 Architect
-**Nisar Ahmed** | Clinical Solutions Architect
-*Bridging Clinical Reality and Digital Architecture.*
+## 👨💻 Data Analyst
+**Nisar Ahmed** | Clinical Data Specialist
+*Bridging Clinical Reality and Data Engineering.*

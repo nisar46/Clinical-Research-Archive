@@ -32,4 +32,5 @@ This archive is a technical chronicle of my work as a **Clinical Data Analyst**.
 
 ## 👨💻 Data Analyst
 **Nisar Ahmed** | Clinical Data Specialist
+
 *Bridging Clinical Reality and Data Engineering.*

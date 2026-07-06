@@ -65,6 +65,15 @@ I'm not a developer who learned healthcare. I'm a healthcare operations person w
 
 ---
 
+## 📋 Business Analyst Proof of Work Samples
+
+To demonstrate how I translate these operational problems into software requirements, I have documented sample BA deliverables in the [jira-confluence-artifacts](./jira-confluence-artifacts) folder:
+*   **[Jira Agile Backlog Sample](./jira-confluence-artifacts/JIRA_BACKLOG_SAMPLE.md):** Shows actual user stories, story point estimation, and acceptance criteria in Given-When-Then format.
+*   **[Confluence PRD Sample](./jira-confluence-artifacts/CONFLUENCE_PRD_SAMPLE.md):** Shows a standard Confluence Product Requirements Document mapping features to business value.
+*   **[UAT Plan Sample](./jira-confluence-artifacts/UAT_PLAN_SAMPLE.md):** Shows a User Acceptance Testing script used to sign off on software releases.
+
+---
+
 ## What Came Next
 
 The five years of problems in this repository are the reason the OmniIngest Clinical Engine exists. Every design decision in that project — the three-phase pipeline, the 7-pillar schema, the DPDP compliance engine — came from something I ran into in real clinical floor work.

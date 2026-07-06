@@ -1,6 +1,6 @@
 # Clinical Data Analytics Journey (2020–2025)
 
-**Role:** Clinical Data Analyst → Healthcare Business Analyst  
+**Role:** Clinical Data Analyst → Healthcare Functional Architect & Product Analyst  
 **Author:** Nisar Ahmed | RK Nursing Home, Bangalore Rural
 
 ---
@@ -82,4 +82,4 @@ See the full OmniIngest project: [github.com/nisar46/OmniIngest-Clinical-Engine]
 
 ---
 
-**Nisar Ahmed** — Healthcare Business Analyst | [LinkedIn](https://www.linkedin.com/in/nisar-ahmed-8440763a3) | [Portfolio](https://nisar46.github.io/portfolio/)
+**Nisar Ahmed** — Healthcare Functional Architect & Product Analyst | [LinkedIn](https://www.linkedin.com/in/nisar-ahmed-8440763a3) | [Portfolio](https://nisar46.github.io/portfolio/)
